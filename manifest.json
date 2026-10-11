@@ -1,0 +1,19 @@
+{
+  "name": "مهندسی غفور",
+  "short_name": "مهندسی غفور",
+  "description": "ابزارهای مهندسی و نقشه‌سازی",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c1027",
+  "theme_color": "#4b176d",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
